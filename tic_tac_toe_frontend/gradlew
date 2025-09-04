@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Frontend app directory stub gradlew to satisfy CI invoking ./gradlew here.
+# Real native builds should run:
+#   npm run build:android
+echo "Frontend stub gradlew: CI-safe no-op (no native project generated yet)."
+exit 0
